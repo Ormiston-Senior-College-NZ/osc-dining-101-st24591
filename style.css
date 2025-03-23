@@ -1,0 +1,25 @@
+/* imported fonts */
+
+
+/* colours */
+:root {
+  --main-col: ;
+  --sec-col: ;
+  --accent-col: ;
+}
+
+/* generic style reset */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  /* add your own font here */
+  font-family: "Sigmar One", sans-serif;
+  /* for testing */
+  /*border: 1px solid lightgrey;*/
+}
+
+body {
+  /* replace with your own background colour */
+  background: #000428; /* fallback for old browsers */
+}
